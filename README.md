@@ -50,7 +50,7 @@ A Star Schema data model was implemented.
 - Products
 - Geography
 
-One-to-many relationships were created between the dimension tables and the FactSales table to improve data organization and reporting performance.
+One-to-many relationships were created between the dimension tables and the Orders table to improve data organization and reporting performance.
 
 <img width="1742" height="932" alt="Superstore Model View" src="https://github.com/user-attachments/assets/4537b5e4-c0d4-470e-bc9b-86b3e434af10" />
 
